@@ -150,6 +150,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/juan-zuluaga-2a4334282/"><img src="https://img.shields.io/badge/-Juan%20Zuluaga-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/juan.pssj/"><img src="https://img.shields.io/badge/-@juan.pssj-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/Ritz_38"><img alt="X" src="https://img.shields.io/badge/@Ritz_38-%23181717.svg?style=flat&logo=x&logoColor=white"></a>
 <a href="https://www.facebook.com/zuluaga.zuluaga.790"><img src="https://img.shields.io/badge/-Juan%20Zuluaga-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://github.com/DarthKar"><img alt="GitHub" src="https://img.shields.io/badge/githubfriend-%23181717.svg?style=flat&logo=github&logoColor=white"></a>
 </p>
