@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 
-<img src="https://1.bp.blogspot.com/-6AYOlKIRAns/WYiZ8lGfICI/AAAAAAAABTk/c6fzq1mX274z6P6eqE8oYipgTSllHeJ4ACLcBGAs/s1600/programando.gif" alt="Welcome!" width="800"/>
+<img src="https://1.bp.blogspot.com/-6AYOlKIRAns/WYiZ8lGfICI/AAAAAAAABTk/c6fzq1mX274z6P6eqE8oYipgTSllHeJ4ACLcBGAs/s1600/programando.gif" alt="Welcome!" width="700"/>
 
 </div>
 
