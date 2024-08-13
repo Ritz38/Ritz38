@@ -129,3 +129,10 @@
 <a href="https://github.com/DarthKar"><img alt="GitHub" src="https://img.shields.io/badge/githubfriend-%23181717.svg?style=flat&logo=github&logoColor=white"></a>
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/Ritz38">
+    <img src="https://komarev.com/ghpvc/?username=Ritz38&color=blue&style=flat)" />
+  </a>
+</p>
+
