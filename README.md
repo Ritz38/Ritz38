@@ -75,7 +75,9 @@
  
 <p align="center">
   &emsp;
-     <a href="https://codeforces.com/profile/ritz38"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>	
+     <a href="https://codeforces.com/profile/ritz38"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/>
+     <a href="https://exercism.org/profiles/Ritz38"><img src="https://iconduck.com/icons/80418/exercism?shared" alt="Exercism"/>     
+</a>	
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
