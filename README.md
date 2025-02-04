@@ -94,28 +94,6 @@
 <br/>
 
 
-<details><summary><h3> :open_file_folder: My Repositories </h3><hr></summary>
-
-
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/Ritz38/Estructura-de-datos.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritz38&repo=Estructura-de-datos&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Ritz38/Codeforces.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritz38&repo=Codeforces&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Ritz38/POO-G4">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritz38&repo=POO-G4&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Ritz38/AprendiendoHTML-CSS-JS.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritz38&repo=AprendiendoHTML-CSS-JS&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
-
-</details>
 
 
 <br/>
