@@ -68,7 +68,7 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio, Eclipse" src="https://skillicons.dev/icons?i=visualstudio,eclipse&perline=14"></a>
+    <a href="#"><img alt="Visual Studio Code, Eclipse" src="https://skillicons.dev/icons?i=visualstudiocode,eclipse&perline=14"></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
