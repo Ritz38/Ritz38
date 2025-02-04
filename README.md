@@ -46,7 +46,7 @@
 <p align="center"> 
   &emsp; 
   <a href=#" target="_blank"> 
-    <img alt="Scala, Python, Java, C" src="https://skillicons.dev/icons?i=scala,python,java,c&perline=14">
+    <img alt="Scala, Python, Java, C, C++" src="https://skillicons.dev/icons?i=scala,python,java,c,cpp&perline=14">
   </a> 
 </p>
 
