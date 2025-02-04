@@ -76,7 +76,7 @@
 <p align="center">
   &emsp;
      <a href="https://codeforces.com/profile/ritz38"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/>
-     <a href="https://exercism.org/profiles/Ritz38"><img src="https://static-00.iconduck.com/assets.00/exercism-icon-512x442-vk79kwep.png" alt="Exercism"/>     
+     <a href="https://exercism.org/profiles/Ritz38"><img src="https://static-00.iconduck.com/assets.00/exercism-icon-512x442-vk79kwep.png" alt="Exercism" width = 50px />     
 </a>	
 </p>
 
