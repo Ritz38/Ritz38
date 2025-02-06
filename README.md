@@ -23,14 +23,6 @@
 
 </div>
 
-<div align="center">
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritz38&theme=tokyonight_duo" alt="7oSkaaa" /></p>
-
-</br>
-</br>
-
-</div>
 
 
 <div align="left">
