@@ -11,6 +11,7 @@
 - 🎓 &nbsp;Systems Engineering student at the **National University of Colombia** (Medellín), working toward a **double degree in Statistics**.
 - 📊 &nbsp;Orienting my path toward **Data Science**: I enjoy statistical modeling, regression, and prediction problems.
 - 🧰 &nbsp;I work mainly with **Python, R, and SQL** to analyze data and communicate results.
+- 🧩 &nbsp;I also practice **competitive programming and problem solving** (Codeforces, Exercism).
 - 🌱 &nbsp;Currently deepening my skills in **machine learning** and data workflows.
 - ✉️ &nbsp;Reach me at **juanpablozuluagamesa@gmail.com** — I'll reply as soon as I can.
 
@@ -18,7 +19,7 @@
 
 ## 🛠️ Tech I work with
 
-**Languages & analysis**
+**Data & analysis**
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
@@ -36,10 +37,15 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
 </p>
 
+**Other technologies I've worked with**
+<p>
+  <img alt="Java, Scala, C, C++, HTML, CSS, VS Code, Eclipse, Windows" src="https://skillicons.dev/icons?i=java,scala,c,cpp,html,css,vscode,eclipse,windows&perline=14">
+</p>
+
 **Currently learning** 🌱
 <p>
   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-in%20progress-lightgrey?style=flat">
-  <img alt="ETL" src="https://img.shields.io/badge/ETL%20%2F%20Data%20Pipelines-in%20progress-lightgrey?style=flat">
+  <img alt="ETL / Data Pipelines" src="https://img.shields.io/badge/ETL%20%2F%20Data%20Pipelines-in%20progress-lightgrey?style=flat">
 </p>
 
 ---
@@ -62,19 +68,11 @@
 
 ---
 
-## 📈 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ritz38&show_icons=true&theme=default" alt="Juan's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritz38&layout=compact&theme=default" alt="Top languages"/>
-</p>
-
----
-
 ## 🤝 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-zuluaga-2a4334282/"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Zuluaga-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/ritz38"><img src="https://img.shields.io/badge/Codeforces-ritz38-1F8ACB?style=flat&logo=codeforces&logoColor=white"/></a>
+  <a href="https://exercism.org/profiles/Ritz38"><img src="https://img.shields.io/badge/Exercism-Ritz38-009CAB?style=flat&logo=exercism&logoColor=white"/></a>
   <a href="mailto:juanpablozuluagamesa@gmail.com"><img src="https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
