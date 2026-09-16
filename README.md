@@ -1,110 +1,80 @@
-<h1 align="center">Hi 👋</h1>
-
-<div align="center" width="50">
-
-<img src="https://1.bp.blogspot.com/-6AYOlKIRAns/WYiZ8lGfICI/AAAAAAAABTk/c6fzq1mX274z6P6eqE8oYipgTSllHeJ4ACLcBGAs/s1600/programando.gif" alt="Welcome!" width="700"/>
-
-</div>
-
-<div align="left">
-
-<h1>About me 👨🏻‍💻</h1> <br>
-
-</div>
-
-<div align="left">
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Systems and computer engineering at the National University of Colombia.\
-🌱 &nbsp;I'm on track for learning more about data base and data science.\
-✍️ &nbsp;In my free time, I like to practice in Codeforces some exersices of programming.\
-💬 &nbsp;I'm junior programmer.\
-✉️ &nbsp;You can shoot me an email at juanpablozuluagamesa@gmail.com! I'll try to respond as soon as I can.
-
-</div>
-
-
-
-<div align="left">
-
-<h1>Some languages and tools 🛠️</h1> <br>
-
-</div>
-
-<div align="left>
-
-### <picture> <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
-<p align="center"> 
-  &emsp; 
-  <a href=#" target="_blank"> 
-    <img alt="Scala, Python, Java, C, C++" src="https://skillicons.dev/icons?i=scala,python,java,c,cpp&perline=14">
-  </a> 
-</p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
-<p align="center"> 
-  <a href="#" target="_blank"> 
-   <img alt="HTML, CSS" src="https://skillicons.dev/icons?i=html,css&perline=14">
-  </a>   
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git, Github, Excel" src="https://skillicons.dev/icons?i=git,github&perline=14"></a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code, Eclipse" src="https://skillicons.dev/icons?i=vscode,eclipse&perline=14"></a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
- 
-<p align="center">
-  &emsp;
-     <a href="https://codeforces.com/profile/ritz38"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/>
-     <a href="https://exercism.org/profiles/Ritz38"><img src="https://static-00.iconduck.com/assets.00/exercism-icon-512x442-vk79kwep.png" alt="Exercism" width = 50px />     
-</a>	
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://skillicons.dev/icons?i=linux,windows&perline=14"></a>
-
-</p>
-
-</div>
-
-<br/>
-<br/>
-
-
-
-
-<br/>
-<br/>
-
-### 🤝🏻 &nbsp;Connect with Me
-<hr>
-<p align="center">
-<a href="https://www.linkedin.com/in/juan-zuluaga-2a4334282/"><img src="https://img.shields.io/badge/-Juan%20Zuluaga-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/juan.pssj/"><img src="https://img.shields.io/badge/-@juan.pssj-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/Ritz_38"><img alt="X" src="https://img.shields.io/badge/@Ritz_38-%23181717.svg?style=flat&logo=x&logoColor=white"></a>
-<a href="https://www.facebook.com/zuluaga.zuluaga.790"><img src="https://img.shields.io/badge/-Juan%20Zuluaga-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://github.com/DarthKar"><img alt="GitHub" src="https://img.shields.io/badge/githubfriend-%23181717.svg?style=flat&logo=github&logoColor=white"></a>
-</p>
-
+<h1 align="center">Hi, I'm Juan Pablo 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/Ritz38">
-    <img src="https://komarev.com/ghpvc/?username=Ritz38&color=blue&style=flat)" />
-  </a>
+  <b>Systems Engineering student · Aspiring Data Scientist · Statistics enthusiast</b>
 </p>
 
+---
+
+## About me 👨🏻‍💻
+
+- 🎓 &nbsp;Systems Engineering student at the **National University of Colombia** (Medellín), working toward a **double degree in Statistics**.
+- 📊 &nbsp;Orienting my path toward **Data Science**: I enjoy statistical modeling, regression, and prediction problems.
+- 🧰 &nbsp;I work mainly with **Python, R, and SQL** to analyze data and communicate results.
+- 🌱 &nbsp;Currently deepening my skills in **machine learning** and data workflows.
+- ✉️ &nbsp;Reach me at **juanpablozuluagamesa@gmail.com** — I'll reply as soon as I can.
+
+---
+
+## 🛠️ Tech I work with
+
+**Languages & analysis**
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+</p>
+
+**Databases & tools**
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+</p>
+
+**Currently learning** 🌱
+<p>
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-in%20progress-lightgrey?style=flat">
+  <img alt="ETL" src="https://img.shields.io/badge/ETL%20%2F%20Data%20Pipelines-in%20progress-lightgrey?style=flat">
+</p>
+
+---
+
+## 📌 Featured projects
+
+- **Statistical Modeling — Linear & Logistic Regression** · *R*
+  Multicollinearity diagnostics (VIF, condition indices), backward selection by partial F-test, assumption validation (Shapiro-Wilk), and logistic regression with ROC/AUC and an optimal threshold via Youden's criterion.
+
+- **Niquía Roundabout — Discrete-Event Simulation** · *R, Simul8*
+  Simulation of a saturated roundabout using real field data: probability-distribution fitting (MLE, AIC, KS test), a validated event model, and scenario comparison with 95% confidence intervals.
+  → [repo](https://github.com/Ritz38/niquia-roundabout-simulation)
+
+- **Electoral Data Analysis — E14 forms (2026 elections)** · *R, tidyverse, ggplot2, sf*
+  Digitization, consolidation, and quality control of the dataset, plus exploratory analysis of vote composition and ideological structure, with maps by comuna.
+
+- **EcoAnalytics — Deforestation Data Analysis** · *Python, Pandas, NumPy, Matplotlib*
+  Cleaning, preprocessing, and exploratory analysis of environmental data with trend visualization.
+  → [repo](https://github.com/Ritz38/EcoAnalytics-Visualizacion-y-Analisis-de-Deforestacion)
+
+---
+
+## 📈 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ritz38&show_icons=true&theme=default" alt="Juan's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritz38&layout=compact&theme=default" alt="Top languages"/>
+</p>
+
+---
+
+## 🤝 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-zuluaga-2a4334282/"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Zuluaga-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/ritz38"><img src="https://img.shields.io/badge/Codeforces-ritz38-1F8ACB?style=flat&logo=codeforces&logoColor=white"/></a>
+  <a href="mailto:juanpablozuluagamesa@gmail.com"><img src="https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
